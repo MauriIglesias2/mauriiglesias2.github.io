@@ -1,2 +1,2 @@
-# mauricioiglesias.github.io
+# mauriiglesias.github.io
 Portfolio
